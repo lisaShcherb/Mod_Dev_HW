@@ -105,4 +105,4 @@ const array = [1, 2, 6];
 const average = array.reduce(function (a, b) {
     return Math.floor(a + b / array.length); //Math.floor округление вниз, округляет аргумент до ближайшего меньшего целого
 })
-console.log(average); // вариант 4
+console.log(average); // вариант 3
